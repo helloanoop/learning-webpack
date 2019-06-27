@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = "Hi From webpack";

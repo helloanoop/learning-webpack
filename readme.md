@@ -2,9 +2,9 @@
 
 ### Index
 * Getting Started
-** Basic Setup
-** Using Webpack Config
-** Using Modules
+    - Basic Setup
+    - Using Webpack Config
+    - Using Modules
 
 * Asset Management
-** Loading CSS
+    - Loading CSS
